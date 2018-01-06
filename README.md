@@ -1,3 +1,6 @@
-# My Awesome Book
+# 日文單字
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+參考 日本語 10000 單字
+
+
+
